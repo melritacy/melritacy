@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!-<h1 align="center">Hi, I'm Melrita Cyriac 👋</h1>
+<h1 align="center">Hi, I'm Melrita Cyriac 👋</h1>
 <p align="center">Third-Culture Kid | Computer Science @ UAlberta | Developer | Data & AI Enthusiast | Women in STEM Advocate</p>
 
 ---
