@@ -48,7 +48,7 @@
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/melrita-cyriac/)
-- 📧 Email: melrita.cyriac@ualberta.ca
+- 📧 Email: melritac@ualberta.ca
 
 ---
 
