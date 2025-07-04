@@ -53,8 +53,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melritac&show_icons=true&rank_icon=github&theme=default" alt="melritac's GitHub stats" />
-</p>
--
 
