@@ -50,6 +50,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/melrita-cyriac/)
 - 📧 Email: melritac@ualberta.ca
 
+![GitHub Streak](https://streak-stats.demolab.com?user=melritac&theme=default)
+
+
 ---
 
 
