@@ -10,7 +10,6 @@
 - 🌍 Grew up in Dubai 🇦🇪 | Indian 🇮🇳 | Currently in Edmonton 🇨🇦
 - 🧠 Interested in AI, data science, full-stack web development, and ethical tech
 - 🤝 Passionate about empowering underrepresented voices in STEM (former WISEST mentor!)
-- 🌟 Currently exploring open-source through **Google Summer of Code**
 
 ---
 
