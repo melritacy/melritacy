@@ -6,7 +6,7 @@
 
 ### 👩🏽‍💻 About Me
 
-- 🎓 I'm a third-year Computer Science student at the University of Alberta (graduating Dec 2026)
+- 🎓 I'm an incoming fourth year Computer Science student at the University of Alberta (graduating Dec 2026)
 - 🌍 Grew up in Dubai 🇦🇪 | Indian 🇮🇳 | Currently in Edmonton 🇨🇦
 - 🧠 Interested in AI, data science, full-stack web development, and ethical tech
 - 🤝 Passionate about empowering underrepresented voices in STEM (former WISEST mentor!)
