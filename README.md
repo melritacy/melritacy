@@ -53,5 +53,10 @@
 
 
 ---
-
+| Function | Mine | Claude | ChatGPT |
+|----------|------|--------|---------|
+| Perplexity | I have a main perplexity function,which accordingly calaulates based on model given | Each model does it's own respective calulation | while Chatgpt does use one main Perplexity function, it uses other helper porbability functions as well |
+| OOV handling/build vocab/replace_singeltons | I handle OOV  in training , using mapping_tokens_to_vocab function -> adds unk when token only appears oonce, It'd done before ngram counting. Also use build vocan and replace singletons | It doesn't really handle oov and only has a fallback probability | Very similar logic to mine, where it replaces tokens that only appear once with unk before counting and chatgpt has similar logic when it comes to building vocbaulary and otherwise |
+| BOS/EOS padding | In my assignment, Unigrams have one <s>, bigram added  one on each side, and trigram prepend two <s> and one at the end | Adds single s for all, doesn't actually do it corrcelty | does it like claude, doesn’t actually do it correctly |
+| Json Serializer/Deserializer | I use serialization and deserialization -> string into json and convert it back into tuple after | uses plain  dictionaries, and json.dump directly | logic is similar to mine, converts into string and then converts it back |
 
