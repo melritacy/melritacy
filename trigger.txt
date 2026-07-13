@@ -11,17 +11,6 @@ GitHub
 - Public repo count seen: 8
 - Public pinned repos seen: turbo-alpaca, Thesixproject, s25-project-black-public
 
-LinkedIn
-- Public profile URL: https://www.linkedin.com/in/melrita-cyriac/
-- Validation status: synced from pasted profile snapshot
-- Headline: AI Engineer Intern @ IBM | BSc Specialization @ UAlberta | VP Industry Outreach @ Ada's Team
-- Pronouns: She/Her
-- Location: Edmonton, Alberta, Canada
-- Organization: University of Alberta
-- Connections: 500+
-- Followers: 1,040
-- Analytics: 251 profile views, 94 post impressions, 34 search appearances
-
 LinkedIn about
 - Currently pursuing a Bachelor of Science in Computer Science at the University of Alberta, expected to graduate in December 2027.
 - Experience includes research and development, mobile and web application development, and backend integration.
@@ -48,10 +37,12 @@ Awards confirmed from LinkedIn
 
 Repo sync status
 - README updated to match the current LinkedIn headline, graduation date, and Ada's Team role
-- README now includes LinkedIn stats plus live GitHub activity widgets
+- README now uses an image-forward layout with badges, cards, and live GitHub activity widgets
+- README contribution graph removed and replaced with a GitHub snake section
+- Snake generation workflow added at .github/workflows/snake.yml and publishes assets to the output branch
 - Old stale claims removed: Dec 2026 graduation and VP Communications as current role
 
 Known naming discrepancy in source snapshot
 - LinkedIn headline says AI Engineer Intern @ IBM
 - LinkedIn experience entry says AI Software Engineer Intern
-- README uses the public headline at the top and the experience title in the experience section
+- README uses the public headline at the top and the experience title in the IBM section

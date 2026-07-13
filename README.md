@@ -15,59 +15,47 @@
   </a>
 </p>
 
----
-
-## About
-
-I am currently pursuing a Bachelor of Science in Computer Science at the University of Alberta, expected to graduate in December 2027. My experience spans AI engineering, research and development, backend integration, and full-stack product work, and I am especially interested in building technology that is practical, sustainable, and useful to real people.
-
-- Based in Edmonton, Alberta, Canada
-- Current IBM intern in AI software engineering
-- VP Industry Outreach at Ada's Team, previously VP Communications
-- Interested in AI, software engineering, data, accessibility, and community-driven tech
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20In-Edmonton%2C%20Alberta-0F766E?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Graduating-December%202027-F59E0B?style=flat-square" alt="Graduation" />
+  <img src="https://img.shields.io/badge/Followers-1%2C040-111827?style=flat-square" alt="LinkedIn followers" />
+  <img src="https://img.shields.io/badge/Connections-500%2B-111827?style=flat-square" alt="LinkedIn connections" />
+</p>
 
 ---
 
-## Snapshot
+## At a glance
 
-| Focus | Details |
-| --- | --- |
-| Current stage | BSc Specialization in Computer Science @ UAlberta |
-| Graduation | December 2027 |
-| Current role | AI Engineer Intern @ IBM |
-| Community leadership | VP Industry Outreach @ Ada's Team |
-| Previous experience | NAT, University of Alberta, Knead Tech, Mashreq |
-| Looking for | High-impact AI, software, and data opportunities |
+> I build practical software with an AI edge, and I care a lot about impact, accessibility, and communities that make tech more open to more people.
+
+- Currently pursuing a Bachelor of Science in Computer Science at the University of Alberta
+- Working as an IBM intern in AI software engineering
+- Leading industry outreach for Ada's Team after previously serving as VP Communications
+- Interested in AI, software engineering, data, accessibility, and sustainability-minded tech
 
 ---
 
-## LinkedIn Snapshot
-
-| Metric | Value |
-| --- | --- |
-| Followers | 1,040 |
-| Connections | 500+ |
-| Profile views | 251 |
-| Post impressions | 94 |
-| Search appearances | 34 |
-| Location | Edmonton, Alberta, Canada |
-
-### Recent post highlights
-
-- IBM internship announcement: 41,178 impressions, 276 reactions, 32 comments
-- Haven at HackED 2026: 2,509 impressions, 50 reactions, 7 comments
-- CAN-CWiC reflection: 2,061 impressions, 60 reactions, 6 comments
-- BSides Edmonton reflection: 1,215 impressions, 27 reactions
-- 401-level hackathon post: 1,943 impressions, 18 reactions, 2 comments
-- NatIgnite 2025: 870 impressions, 12 reactions, 1 comment
-
----
-
-## GitHub Activity
+## Signal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melritacy&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melritacy&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Profile%20Views-251-0F172A?style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Search%20Appearances-34-0F172A?style=for-the-badge" alt="Search appearances" />
+  <img src="https://img.shields.io/badge/Post%20Impressions%20(7d)-94-0F172A?style=for-the-badge" alt="Post impressions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM%20Intern%20Post-41%2C178%20impressions-0A66C2?style=flat-square" alt="IBM post impressions" />
+  <img src="https://img.shields.io/badge/Haven%20Post-2%2C509%20impressions-7C3AED?style=flat-square" alt="Haven post impressions" />
+  <img src="https://img.shields.io/badge/CAN--CWiC%20Post-2%2C061%20impressions-0F766E?style=flat-square" alt="CAN-CWiC post impressions" />
+</p>
+
+---
+
+## GitHub Pulse
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melritacy&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melritacy&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=0f172a&text_color=334155" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -75,44 +63,53 @@ I am currently pursuing a Bachelor of Science in Computer Science at the Univers
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melritacy&bg_color=ffffff&color=0f172a&line=0f766e&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melritacy/melritacy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melritacy/melritacy/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/melritacy/melritacy/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## Experience Highlights
+## What I'm building around
 
-| Role | Organization | Notes |
-| --- | --- | --- |
-| AI Software Engineer Intern | IBM | Working on the context manager platform |
-| Research And Development Associate | NAT | Co-design lead and tracker development |
-| Software Development Student | Knead Tech | Frontend in React Native and backend in TypeScript |
-| Research Assistant | University of Alberta | Research on periodic billiard paths in obtuse triangles |
-| Data Analyst Intern | Mashreq | Built Power BI dashboards and KPI tracking |
+### IBM
+Working on the context manager platform as an AI Software Engineer Intern in Markham.
 
----
+### Ada's Team
+Leading industry outreach and helping grow a stronger bridge between students, mentors, and the broader tech community.
 
-## Featured Work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| Haven | Accessibility scoring and explainability platform for housing and buildings | React, Vite, Django, SQLite, OpenAI API |
-| Social Distribution | Federated social platform with cross-node interoperability | React, REST APIs, PostgreSQL |
-| Turbo Alpaca | Startup evaluation platform for student entrepreneurs | Django, PostgreSQL |
+### NAT
+Contributing as a Research and Development Associate with co-design and tracker development work.
 
 ---
 
-## Honors
+## Selected work
+
+### Haven
+Accessibility scoring and explainability platform built with React, Vite, Django, SQLite, and the OpenAI API. Built to make accessibility information easier to understand, compare, and trust.
+
+### Social Distribution
+Federated social platform with cross-node interoperability, modern REST APIs, and a React frontend built for collaborative distributed publishing.
+
+### Turbo Alpaca
+Startup evaluation platform for student founders, designed to make idea validation more accessible and more actionable.
+
+---
+
+## Wins and moments
 
 - 3rd Place, Diversity Stream, HackED '26
 - 1st Place, NatIgnite '25
-- Built Haven with a strong focus on accessibility, explainability, and trust
+- 41,178 impressions on the IBM internship announcement post
+- 1,040 LinkedIn followers and 500+ connections
 
 ---
 
 ## Toolbox
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -121,7 +118,6 @@ I am currently pursuing a Bachelor of Science in Computer Science at the Univers
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -130,8 +126,10 @@ I am currently pursuing a Bachelor of Science in Computer Science at the Univers
 
 ---
 
-## Connect
+## Reach out
 
-- GitHub: [melritacy](https://github.com/melritacy)
-- LinkedIn: [melrita-cyriac](https://www.linkedin.com/in/melrita-cyriac/)
-- Email: [melritac@ualberta.ca](mailto:melritac@ualberta.ca)
+<p align="center">
+  <a href="https://github.com/melritacy">GitHub</a> |
+  <a href="https://www.linkedin.com/in/melrita-cyriac/">LinkedIn</a> |
+  <a href="mailto:melritac@ualberta.ca">Email</a>
+</p>
