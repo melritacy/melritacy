@@ -37,8 +37,9 @@ Awards confirmed from LinkedIn
 
 Repo sync status
 - README updated to match the current LinkedIn headline, graduation date, and Ada's Team role
-- README now uses an image-forward layout with badges, cards, and live GitHub activity widgets
+- README now uses a more visual layout with banners, cards, icons, and live GitHub widgets
 - README contribution graph removed and replaced with a GitHub snake section
+- LinkedIn stats removed from the README
 - Snake generation workflow added at .github/workflows/snake.yml and publishes assets to the output branch
 - Old stale claims removed: Dec 2026 graduation and VP Communications as current role
 

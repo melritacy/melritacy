@@ -1,57 +1,44 @@
-<h1 align="center">Melrita Cyriac</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f766e,50:0a66c2,100:f59e0b&text=Melrita%20Cyriac&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20Intern%20@%20IBM%20%7C%20BSc%20Specialization%20@%20UAlberta%20%7C%20VP%20Industry%20Outreach%20@%20Ada's%20Team&descAlignY=58&descSize=16" alt="Header banner" />
+
 <p align="center">
-  AI Engineer Intern @ IBM | BSc Specialization @ UAlberta | VP Industry Outreach @ Ada's Team
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&color=0F172A&center=true&vCenter=true&width=700&lines=Building+useful+AI-powered+software;Interested+in+accessibility%2C+impact%2C+and+community;Edmonton-based+%7C+UAlberta+CS+%7C+IBM+intern" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melrita-cyriac/">
-    <img src="https://img.shields.io/badge/LinkedIn-Melrita%20Cyriac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/melritacy">
-    <img src="https://img.shields.io/badge/GitHub-melritacy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:melritac@ualberta.ca">
-    <img src="https://img.shields.io/badge/Email-melritac%40ualberta.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20In-Edmonton%2C%20Alberta-0F766E?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Edmonton%2C%20Alberta-0F766E?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Graduating-December%202027-F59E0B?style=flat-square" alt="Graduation" />
-  <img src="https://img.shields.io/badge/Followers-1%2C040-111827?style=flat-square" alt="LinkedIn followers" />
-  <img src="https://img.shields.io/badge/Connections-500%2B-111827?style=flat-square" alt="LinkedIn connections" />
+  <img src="https://img.shields.io/badge/Currently-IBM%20Intern-0F172A?style=flat-square" alt="Current role" />
+  <img src="https://img.shields.io/badge/Community-Ada's%20Team-7C3AED?style=flat-square" alt="Community" />
 </p>
 
 ---
 
-## At a glance
+## About me
 
-> I build practical software with an AI edge, and I care a lot about impact, accessibility, and communities that make tech more open to more people.
-
-- Currently pursuing a Bachelor of Science in Computer Science at the University of Alberta
-- Working as an IBM intern in AI software engineering
-- Leading industry outreach for Ada's Team after previously serving as VP Communications
-- Interested in AI, software engineering, data, accessibility, and sustainability-minded tech
-
----
-
-## Signal
+I am a Computer Science student at the University of Alberta with experience across AI engineering, backend integration, research and development, and full-stack product work. I like building tools that are useful in the real world, especially when they improve accessibility, trust, or sustainability.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-251-0F172A?style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Search%20Appearances-34-0F172A?style=for-the-badge" alt="Search appearances" />
-  <img src="https://img.shields.io/badge/Post%20Impressions%20(7d)-94-0F172A?style=for-the-badge" alt="Post impressions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IBM%20Intern%20Post-41%2C178%20impressions-0A66C2?style=flat-square" alt="IBM post impressions" />
-  <img src="https://img.shields.io/badge/Haven%20Post-2%2C509%20impressions-7C3AED?style=flat-square" alt="Haven post impressions" />
-  <img src="https://img.shields.io/badge/CAN--CWiC%20Post-2%2C061%20impressions-0F766E?style=flat-square" alt="CAN-CWiC post impressions" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-0A66C2?style=for-the-badge" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Full%20Stack-0F766E?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Accessibility-F59E0B?style=for-the-badge" alt="Accessibility" />
+  <img src="https://img.shields.io/badge/Community%20Tech-7C3AED?style=for-the-badge" alt="Community Tech" />
 </p>
 
 ---
 
-## GitHub Pulse
+## GitHub pulse
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=melritacy&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="GitHub stats" />
@@ -72,56 +59,56 @@
 
 ---
 
-## What I'm building around
+## Current orbit
 
 ### IBM
 Working on the context manager platform as an AI Software Engineer Intern in Markham.
 
 ### Ada's Team
-Leading industry outreach and helping grow a stronger bridge between students, mentors, and the broader tech community.
+Leading industry outreach and helping strengthen the bridge between students, mentors, and industry.
 
 ### NAT
 Contributing as a Research and Development Associate with co-design and tracker development work.
 
 ---
 
-## Selected work
+## Featured projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=turbo-alpaca&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="Turbo Alpaca repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=Thesixproject&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0a66c2" alt="Thesixproject repo card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=s25-project-black-public&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=f59e0b" alt="Project Black repo card" />
+</p>
 
 ### Haven
-Accessibility scoring and explainability platform built with React, Vite, Django, SQLite, and the OpenAI API. Built to make accessibility information easier to understand, compare, and trust.
+Built at HackED 2026 to turn accessibility information from plans and reports into clear, explainable scores people can actually use and trust.
 
 ### Social Distribution
-Federated social platform with cross-node interoperability, modern REST APIs, and a React frontend built for collaborative distributed publishing.
-
-### Turbo Alpaca
-Startup evaluation platform for student founders, designed to make idea validation more accessible and more actionable.
+Built as a federated social platform with REST APIs, cross-node interoperability, and a React frontend designed for distributed publishing.
 
 ---
 
-## Wins and moments
+## Wins
 
 - 3rd Place, Diversity Stream, HackED '26
 - 1st Place, NatIgnite '25
-- 41,178 impressions on the IBM internship announcement post
-- 1,040 LinkedIn followers and 500+ connections
+- AI, accessibility, and community-centered project work across hackathons, student teams, and internships
 
 ---
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,django,react,flask,postgres,sqlite,git" alt="Skill icons" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ---
@@ -133,3 +120,5 @@ Startup evaluation platform for student founders, designed to make idea validati
   <a href="https://www.linkedin.com/in/melrita-cyriac/">LinkedIn</a> |
   <a href="mailto:melritac@ualberta.ca">Email</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f766e,50:0a66c2,100:f59e0b" alt="Footer banner" />
