@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f766e,50:0a66c2,100:f59e0b&text=Melrita%20Cyriac&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20Intern%20@%20IBM%20%7C%20BSc%20Specialization%20@%20UAlberta%20%7C%20VP%20Industry%20Outreach%20@%20Ada's%20Team&descAlignY=58&descSize=16" alt="Header banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&color=0F172A&center=true&vCenter=true&width=700&lines=Building+useful+AI-powered+software;Interested+in+accessibility%2C+impact%2C+and+community;Edmonton-based+%7C+UAlberta+CS+%7C+IBM+intern" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1400&color=F8FAFC&center=true&vCenter=true&width=760&lines=Building+useful+AI-powered+software;Interested+in+accessibility%2C+impact%2C+and+community;Edmonton-based+%7C+UAlberta+CS+%7C+IBM+intern" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -41,8 +41,7 @@ I am a Computer Science student at the University of Alberta with experience acr
 ## GitHub pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melritacy&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melritacy&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=0f172a&text_color=334155" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=melritacy&theme=algolia&no-bg=true&no-frame=true&row=1&column=4&margin-w=18" alt="GitHub trophies" />
 </p>
 
 <p align="center">
@@ -62,40 +61,82 @@ I am a Computer Science student at the University of Alberta with experience acr
 ## Current orbit
 
 ### IBM
-Working on the context manager platform as an AI Software Engineer Intern in Markham.
+
+<p>
+  <img src="https://img.shields.io/badge/Role-AI%20Software%20Engineer%20Intern-0A66C2?style=flat-square" alt="IBM role" />
+  <img src="https://img.shields.io/badge/Location-Markham-0A66C2?style=flat-square" alt="IBM location" />
+  <img src="https://img.shields.io/badge/Mode-Hybrid-0A66C2?style=flat-square" alt="IBM mode" />
+</p>
+
+> Working on the context manager platform.
 
 ### Ada's Team
-Leading industry outreach and helping strengthen the bridge between students, mentors, and industry.
+
+<p>
+  <img src="https://img.shields.io/badge/Role-VP%20Industry%20Outreach-7C3AED?style=flat-square" alt="Ada's Team role" />
+  <img src="https://img.shields.io/badge/Focus-Community%20and%20Industry%20Bridge-7C3AED?style=flat-square" alt="Ada's Team focus" />
+</p>
+
+> Building stronger connections between students, mentors, partners, and the wider tech community.
 
 ### NAT
-Contributing as a Research and Development Associate with co-design and tracker development work.
+
+<p>
+  <img src="https://img.shields.io/badge/Role-R%26D%20Associate-0F766E?style=flat-square" alt="NAT role" />
+  <img src="https://img.shields.io/badge/Work-Co--design%20and%20Tracker%20Development-0F766E?style=flat-square" alt="NAT work" />
+</p>
+
+> Contributing to research and development work with a focus on design and implementation.
 
 ---
 
 ## Featured projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=turbo-alpaca&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f766e" alt="Turbo Alpaca repo card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=Thesixproject&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0a66c2" alt="Thesixproject repo card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melritacy&repo=s25-project-black-public&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=f59e0b" alt="Project Black repo card" />
-</p>
-
 ### Haven
-Built at HackED 2026 to turn accessibility information from plans and reports into clear, explainable scores people can actually use and trust.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/HackED%20'26-Accessibility%20Project-F59E0B?style=flat-square" alt="HackED 2026" />
+</p>
+
+> Turned plans and reports into clear, explainable accessibility scores people can actually use and trust.
 
 ### Social Distribution
-Built as a federated social platform with REST APIs, cross-node interoperability, and a React frontend designed for distributed publishing.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Federation-0A66C2?style=flat-square" alt="Federation" />
+</p>
+
+> Built as a federated social platform with cross-node interoperability and a frontend designed for distributed publishing.
+
+### Turbo Alpaca
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Startup%20Evaluation-0F766E?style=flat-square" alt="Startup Evaluation" />
+</p>
+
+> Designed to make idea validation more accessible and more actionable for student founders.
 
 ---
 
 ## Wins
 
-- 3rd Place, Diversity Stream, HackED '26
-- 1st Place, NatIgnite '25
-- AI, accessibility, and community-centered project work across hackathons, student teams, and internships
+<p align="center">
+  <img src="https://img.shields.io/badge/HackED%20'26-3rd%20Place%20Diversity%20Stream-F59E0B?style=for-the-badge" alt="HackED win" />
+  <img src="https://img.shields.io/badge/NatIgnite%20'25-1st%20Place-0F766E?style=for-the-badge" alt="NatIgnite win" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20x%20Accessibility%20x%20Community-0F172A?style=flat-square" alt="Focus areas" />
+</p>
 
 ---
 
