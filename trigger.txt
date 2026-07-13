@@ -1,1 +1,57 @@
-# Trigger activity
+# Profile sync context
+
+Last reviewed: 2026-07-13
+Validation source: user-provided LinkedIn profile snapshot pasted into the session on 2026-07-13
+
+GitHub
+- Username: melritacy
+- Public name: Melrita Cyriac
+- Public bio seen: CS student @ualberta
+- Public profile URL: https://github.com/melritacy
+- Public repo count seen: 8
+- Public pinned repos seen: turbo-alpaca, Thesixproject, s25-project-black-public
+
+LinkedIn
+- Public profile URL: https://www.linkedin.com/in/melrita-cyriac/
+- Validation status: synced from pasted profile snapshot
+- Headline: AI Engineer Intern @ IBM | BSc Specialization @ UAlberta | VP Industry Outreach @ Ada's Team
+- Pronouns: She/Her
+- Location: Edmonton, Alberta, Canada
+- Organization: University of Alberta
+- Connections: 500+
+- Followers: 1,040
+- Analytics: 251 profile views, 94 post impressions, 34 search appearances
+
+LinkedIn about
+- Currently pursuing a Bachelor of Science in Computer Science at the University of Alberta, expected to graduate in December 2027.
+- Experience includes research and development, mobile and web application development, and backend integration.
+- Career direction emphasizes positive-impact and sustainability-minded technology.
+
+Current experience
+- IBM: AI Software Engineer Intern, May 2026 to Present, Markham, Ontario, Hybrid
+- NAT: Research And Development Associate, Aug 2025 to Present, Edmonton, Hybrid
+- Ada's Team: VP Industry Outreach, May 2025 to Present
+
+Previous experience
+- Knead Tech: Software Development Student (Capstone), Sep 2025 to Dec 2025
+- University of Alberta: Research Assistant, May 2025 to Aug 2025
+- Mashreq: Data Analyst Intern, May 2024 to Jul 2024
+
+Projects confirmed from LinkedIn
+- Haven
+- Social Distribution
+- Project Black
+
+Awards confirmed from LinkedIn
+- 3rd Place, Diversity Stream, HackEd '26
+- 1st Place, NatIgnite '25
+
+Repo sync status
+- README updated to match the current LinkedIn headline, graduation date, and Ada's Team role
+- README now includes LinkedIn stats plus live GitHub activity widgets
+- Old stale claims removed: Dec 2026 graduation and VP Communications as current role
+
+Known naming discrepancy in source snapshot
+- LinkedIn headline says AI Engineer Intern @ IBM
+- LinkedIn experience entry says AI Software Engineer Intern
+- README uses the public headline at the top and the experience title in the experience section
