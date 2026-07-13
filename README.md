@@ -41,7 +41,9 @@ I am a Computer Science student at the University of Alberta with experience acr
 ## GitHub pulse
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melritacy&theme=algolia&no-bg=true&no-frame=true&row=1&column=4&margin-w=18" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/GitHub%20Pulse-Active-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub pulse" />
+  <img src="https://img.shields.io/badge/Focus-Building%20in%20Public-0A66C2?style=for-the-badge" alt="Building in public" />
+  <img src="https://img.shields.io/badge/Style-Consistent%20Shipping-0F766E?style=for-the-badge" alt="Consistent shipping" />
 </p>
 
 <p align="center">

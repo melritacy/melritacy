@@ -40,6 +40,7 @@ Repo sync status
 - README now uses a more visual layout with banners, cards, icons, and live GitHub widgets
 - README contribution graph removed and replaced with a GitHub snake section
 - LinkedIn stats removed from the README
+- Broken GitHub trophy embed removed and replaced with a stable badge-based GitHub header
 - Snake generation workflow added at .github/workflows/snake.yml and publishes assets to the output branch
 - Old stale claims removed: Dec 2026 graduation and VP Communications as current role
 
